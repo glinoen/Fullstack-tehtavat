@@ -1,0 +1,17 @@
+h1 {
+    color: darkblue;
+    }
+
+h2 {
+    color:rgb(74, 98, 233);
+  }
+
+.error{
+    color: black;
+    background: lime;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}  
